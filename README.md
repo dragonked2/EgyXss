@@ -1,7 +1,6 @@
 
 
 
-
 ```markdown
 # Advanced XSS Scanner
 
