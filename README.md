@@ -5,7 +5,7 @@ Advanced XSS Scanner is a Python tool designed for identifying and testing websi
 
 Version 1.1
 aa
-## Features
+## Feature
 
 - Collects internal URLs from a website recursively.
 - Identifies and tests various points for potential XSS vulnerabilities.
