@@ -1,6 +1,5 @@
 a
-```markdown
-# Advanced XSS Scanner
+```markdown# Advanced XSS Scanner
 
 Advanced XSS Scanner is a Python tool designed for identifying and testing websites for potential Cross-Site Scripting (XSS) vulnerabilities. It allows you to scan a single website or provide a text file containing multiple websites for sequential scanning.
 
