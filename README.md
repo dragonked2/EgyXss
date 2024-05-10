@@ -1,4 +1,4 @@
-aa
+a
 ```markdown
 # Advanced XSS Scanner
 
